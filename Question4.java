@@ -1,3 +1,6 @@
+// Create a two dimensional array of integers and display:
+// sum of all elements of each column
+// sum of all elements of each row
 class Question4
 {
     public static void rowSum(int arr[][],int n,int m)
